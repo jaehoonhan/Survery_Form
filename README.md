@@ -1,2 +1,2 @@
-# Survery_Form
-General survery form
+# Survey_Form
+General survey form
